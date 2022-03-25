@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027249059064",
+    "project_id": "gohere-17c9a",
+    "storage_bucket": "gohere-17c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027249059064:android:d5cb4f6445c2294b54370d",
+        "android_client_info": {
+          "package_name": "com.gohere.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027249059064-kgphbbdkdg97duv3sl00p16a078lossn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrL-yWm9o5lE_tBos_ZlHGmzVsOARRlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027249059064-kgphbbdkdg97duv3sl00p16a078lossn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

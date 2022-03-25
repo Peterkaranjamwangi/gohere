@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027249059064-sar37cd7jbg07tmerao26lfohu5o1l3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027249059064-sar37cd7jbg07tmerao26lfohu5o1l3e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhFY0ag0j0mhthgpC2i8jwKnAccPm-s34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027249059064</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gohere.riderapp</string>
+	<key>PROJECT_ID</key>
+	<string>gohere-17c9a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gohere-17c9a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027249059064:ios:080b5d14c6a2a95b54370d</string>
+	<key>DATABASE_URL</key>
+	<string>https://gohere-17c9a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
